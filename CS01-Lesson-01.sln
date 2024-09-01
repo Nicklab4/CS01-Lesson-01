@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01-Lesson-01-01-ConsApp", "CS01-ConsApp-Lesson-01-01\CS01-Lesson-01-01-ConsApp.csproj", "{AD21CF54-A0FD-444C-9DBA-44ACE83D5FAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01-Lesson-01-02-ConsApp", "CS01-ConsApp-Lesson-01-02\CS01-Lesson-01-02-ConsApp.csproj", "{F262EF8A-4FD6-4DE6-9CEE-9E67B9BEF7AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01-Lesson-01-03-ConsApp", "CS01-ConsApp-Lesson-01-03\CS01-Lesson-01-03-ConsApp.csproj", "{5D1AEC6F-0989-43B9-8138-C40329237D62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01-Lesson-01-04-ConsApp", "CS01-ConsApp-Lesson-01-04\CS01-Lesson-01-04-ConsApp.csproj", "{DCD1A17B-BFD3-45B2-AC84-1B9E505BD2D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01-Lesson-01-05-ConsApp", "CS01-ConsApp-Lesson-01-05\CS01-Lesson-01-05-ConsApp.csproj", "{45816981-7432-4280-87DD-F850DAD26B6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01-Lesson-01-06-ConsApp", "CS01-ConsApp-Lesson-01-06\CS01-Lesson-01-06-ConsApp.csproj", "{D5A7F88B-4BE5-4606-9DFE-EFD0A483127A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01-Lesson-01-HW01-ConsApp", "CS01-ConsApp-Lesson-01-HW01\CS01-Lesson-01-HW01-ConsApp.csproj", "{A8ABEC39-BCF4-4568-84FE-8E4D0029B869}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01-Lesson-01-HW02-ConsApp", "CS01-Lesson-01-HW02-ConsApp\CS01-Lesson-01-HW02-ConsApp.csproj", "{D365DD22-E92A-4BAD-AD8F-6BD199CBA2D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01-Lesson-01-HW03-ConsApp", "CS01-Lesson-01-HW03-ConsApp\CS01-Lesson-01-HW03-ConsApp.csproj", "{4EE3F7C5-76CE-4D3C-A9EA-EBF7329E8BAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01-Lesson-01-HW04-ConsApp", "CS01-Lesson-01-HW04-ConsApp\CS01-Lesson-01-HW04-ConsApp.csproj", "{65D76457-B1CD-4441-8843-433D751EB2A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01-Lesson-01-HW05-ConsApp", "CS01-Lesson-01-HW05-ConsApp\CS01-Lesson-01-HW05-ConsApp.csproj", "{4F3B4D6D-A6D2-432F-AB52-4E9B5B4768F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD21CF54-A0FD-444C-9DBA-44ACE83D5FAA}.Debug|x86.ActiveCfg = Debug|x86
+		{AD21CF54-A0FD-444C-9DBA-44ACE83D5FAA}.Debug|x86.Build.0 = Debug|x86
+		{AD21CF54-A0FD-444C-9DBA-44ACE83D5FAA}.Release|x86.ActiveCfg = Release|x86
+		{AD21CF54-A0FD-444C-9DBA-44ACE83D5FAA}.Release|x86.Build.0 = Release|x86
+		{F262EF8A-4FD6-4DE6-9CEE-9E67B9BEF7AB}.Debug|x86.ActiveCfg = Debug|x86
+		{F262EF8A-4FD6-4DE6-9CEE-9E67B9BEF7AB}.Debug|x86.Build.0 = Debug|x86
+		{F262EF8A-4FD6-4DE6-9CEE-9E67B9BEF7AB}.Release|x86.ActiveCfg = Release|x86
+		{F262EF8A-4FD6-4DE6-9CEE-9E67B9BEF7AB}.Release|x86.Build.0 = Release|x86
+		{5D1AEC6F-0989-43B9-8138-C40329237D62}.Debug|x86.ActiveCfg = Debug|x86
+		{5D1AEC6F-0989-43B9-8138-C40329237D62}.Debug|x86.Build.0 = Debug|x86
+		{5D1AEC6F-0989-43B9-8138-C40329237D62}.Release|x86.ActiveCfg = Release|x86
+		{5D1AEC6F-0989-43B9-8138-C40329237D62}.Release|x86.Build.0 = Release|x86
+		{DCD1A17B-BFD3-45B2-AC84-1B9E505BD2D1}.Debug|x86.ActiveCfg = Debug|x86
+		{DCD1A17B-BFD3-45B2-AC84-1B9E505BD2D1}.Debug|x86.Build.0 = Debug|x86
+		{DCD1A17B-BFD3-45B2-AC84-1B9E505BD2D1}.Release|x86.ActiveCfg = Release|x86
+		{DCD1A17B-BFD3-45B2-AC84-1B9E505BD2D1}.Release|x86.Build.0 = Release|x86
+		{45816981-7432-4280-87DD-F850DAD26B6B}.Debug|x86.ActiveCfg = Debug|x86
+		{45816981-7432-4280-87DD-F850DAD26B6B}.Debug|x86.Build.0 = Debug|x86
+		{45816981-7432-4280-87DD-F850DAD26B6B}.Release|x86.ActiveCfg = Release|x86
+		{45816981-7432-4280-87DD-F850DAD26B6B}.Release|x86.Build.0 = Release|x86
+		{D5A7F88B-4BE5-4606-9DFE-EFD0A483127A}.Debug|x86.ActiveCfg = Debug|x86
+		{D5A7F88B-4BE5-4606-9DFE-EFD0A483127A}.Debug|x86.Build.0 = Debug|x86
+		{D5A7F88B-4BE5-4606-9DFE-EFD0A483127A}.Release|x86.ActiveCfg = Release|x86
+		{D5A7F88B-4BE5-4606-9DFE-EFD0A483127A}.Release|x86.Build.0 = Release|x86
+		{A8ABEC39-BCF4-4568-84FE-8E4D0029B869}.Debug|x86.ActiveCfg = Debug|x86
+		{A8ABEC39-BCF4-4568-84FE-8E4D0029B869}.Debug|x86.Build.0 = Debug|x86
+		{A8ABEC39-BCF4-4568-84FE-8E4D0029B869}.Release|x86.ActiveCfg = Release|x86
+		{A8ABEC39-BCF4-4568-84FE-8E4D0029B869}.Release|x86.Build.0 = Release|x86
+		{D365DD22-E92A-4BAD-AD8F-6BD199CBA2D7}.Debug|x86.ActiveCfg = Debug|x86
+		{D365DD22-E92A-4BAD-AD8F-6BD199CBA2D7}.Debug|x86.Build.0 = Debug|x86
+		{D365DD22-E92A-4BAD-AD8F-6BD199CBA2D7}.Release|x86.ActiveCfg = Release|x86
+		{D365DD22-E92A-4BAD-AD8F-6BD199CBA2D7}.Release|x86.Build.0 = Release|x86
+		{4EE3F7C5-76CE-4D3C-A9EA-EBF7329E8BAF}.Debug|x86.ActiveCfg = Debug|x86
+		{4EE3F7C5-76CE-4D3C-A9EA-EBF7329E8BAF}.Debug|x86.Build.0 = Debug|x86
+		{4EE3F7C5-76CE-4D3C-A9EA-EBF7329E8BAF}.Release|x86.ActiveCfg = Release|x86
+		{4EE3F7C5-76CE-4D3C-A9EA-EBF7329E8BAF}.Release|x86.Build.0 = Release|x86
+		{65D76457-B1CD-4441-8843-433D751EB2A1}.Debug|x86.ActiveCfg = Debug|x86
+		{65D76457-B1CD-4441-8843-433D751EB2A1}.Debug|x86.Build.0 = Debug|x86
+		{65D76457-B1CD-4441-8843-433D751EB2A1}.Release|x86.ActiveCfg = Release|x86
+		{65D76457-B1CD-4441-8843-433D751EB2A1}.Release|x86.Build.0 = Release|x86
+		{4F3B4D6D-A6D2-432F-AB52-4E9B5B4768F7}.Debug|x86.ActiveCfg = Debug|x86
+		{4F3B4D6D-A6D2-432F-AB52-4E9B5B4768F7}.Debug|x86.Build.0 = Debug|x86
+		{4F3B4D6D-A6D2-432F-AB52-4E9B5B4768F7}.Release|x86.ActiveCfg = Release|x86
+		{4F3B4D6D-A6D2-432F-AB52-4E9B5B4768F7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
